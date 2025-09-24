@@ -18,9 +18,9 @@ function App() {
             </View>
 
             <View style={styles.content}>
-                <Text style={styles.greeting}>Hello, I'm [Your Name]!</Text>
-                <Text style={styles.info}>Student ID: [Your Student ID]</Text>
-                <Text style={styles.info}>Program: [Your Program]</Text>
+                <Text style={styles.greeting}>Hello, I'm Chanpreet Singh!</Text>
+                <Text style={styles.info}>Student ID: N01461731</Text>
+                <Text style={styles.info}>Program: Computer Programming</Text>
 
                 <View style={styles.goals}>
                     <Text style={styles.sectionTitle}>My Course Goals:</Text>
